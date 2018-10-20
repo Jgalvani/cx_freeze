@@ -29,8 +29,8 @@ base = None
 # In[4]:
 
 
-os.environ['TCL_LIBRARY'] = "C:/Users/jysss/AppData/Local/Programs/Python/Python37-32/tcl/tcl8.6"
-os.environ['TK_LIBRARY'] =  "C:/Users/jysss/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6"                                     
+os.environ['TCL_LIBRARY'] = "C:/Users/.../AppData/Local/Programs/Python/Python37-32/tcl/tcl8.6"
+os.environ['TK_LIBRARY'] =  "C:/Users/.../AppData/Local/Programs/Python/Python37-32/tcl/tk8.6"                                     
 setup(  name = input("Name: "),
         version = input("Version: "),
         description = input("Description: "),
